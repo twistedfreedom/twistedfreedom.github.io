@@ -1,3 +1,25 @@
-body{
-	background:url("../img/bg.png");
+body{ 
+	background: url("../img/subtle.png");
+	font-family: 'Lato' sans-serif;
+	
+}
+/* Navigation*/ 
+
+a{
+	font-size: 1em;
+    color:#0E147F; 
+    text-decoration: none;
+}
+img{
+	width:18em;
+}
+/*containter*/ 
+
+h1{
+	color:#042658;
+}
+
+h3{
+	font-size: 1.17em;
+	color: #0267A7 
 }
